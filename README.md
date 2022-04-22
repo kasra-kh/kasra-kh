@@ -10,7 +10,9 @@
 - 📫 How to reach me Kasra33733mnm@gmail.com
 
 - ⚡ Fun fact I also draw, cook and play games ;)
-  
+- 
+<img src="https://discordapp.com/api/guilds/916840384339013703/widget.png?style=shield" alt="shield.png">
+
 <h2> 𝙎𝙠𝙞𝙡𝙡𝙨 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
 <code><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"></code>
