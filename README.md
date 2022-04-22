@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact I also draw, cook and play games ;)
 - 
-<img src="https://discordapp.com/api/guilds/916840384339013703/widget.png?style=shield" alt="shield.png">
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/916840384339013703)](https://discord.com/users/916840384339013703)
 
 <h2> 𝙎𝙠𝙞𝙡𝙡𝙨 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
