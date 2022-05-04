@@ -17,7 +17,8 @@ Learn to code for 5 years, after changing jobs. I started with python, but I was
 <a href="https://www.github.com/kasra-kh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kasra-kh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### 𝙎𝙠𝙞𝙡𝙡𝙨 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/916840384339013703)](https://discord.com/users/916840384339013703)
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
