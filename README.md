@@ -1,4 +1,4 @@
-👋 My name is kasra
+Hi 👋 My name is kasra
 ======================
 
 I am a network security engineer in Iran
@@ -12,13 +12,10 @@ Learn to code for 5 years, after changing jobs. I started with python, but I was
 * 🤝  I'm open to collaborating on Server and social network security
 * ⚡  Fun fact I also draw, cook and play games ;)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/916840384339013703)](https://discord.com/users/916840384339013703)
-
 <a href="https://www.github.com/kasra-kh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kasra-kh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/916840384339013703)](https://discord.com/users/916840384339013703)
-
+### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
