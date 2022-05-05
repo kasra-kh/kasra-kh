@@ -15,7 +15,7 @@ Coding training for 5 years, after changing jobs. I started with Python, but I w
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasra-kh" alt="kasra-kh" /> </p>
 
-<h2> 𝙎𝙠𝙞𝙡𝙡𝙨 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" 
+<h2> 𝙎𝙠𝙞𝙡𝙡𝙨 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Logo" width="120" height="120">
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
